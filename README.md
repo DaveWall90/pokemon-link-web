@@ -1,2 +1,2 @@
-# pokemon-link-web
-Web y descargas de Pokémon Link para Windows. Proyecto fan no oficial.
+# PK Link
+Web y descargas de PK Link para Windows. Creado por T&I. Identidad visual y música originales. Herramienta independiente que trabaja con los archivos aportados por el usuario.
