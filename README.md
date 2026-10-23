@@ -1,2 +1,5 @@
-# PK Link
-Web y descargas de PK Link para Windows. Creado por T&I. Identidad visual y música originales. Herramienta independiente que trabaja con los archivos aportados por el usuario.
+# P’K Link
+
+Web de PK Link para Windows, creado por T&I. Proyecto fan no oficial; sin afiliación con Nintendo, Game Freak ni The Pokémon Company. No incluye juegos ni partidas.
+
+La descarga se publica en Releases. Versión actual: 0.4.24.
